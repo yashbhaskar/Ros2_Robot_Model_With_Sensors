@@ -16,7 +16,7 @@ This ROS2 package my_robot contains a complete robot model with integrated senso
   │ └── my_bot
   ├── launch/
   │ ├── gazebo.launch.py              # launch file gazebo
-  │ └── rviz.launch.py		       # launch file rviz2
+  │ └── rviz.launch.py		            # launch file rviz2
   ├── worlds/
   │ ├── bigmap.sdf
   │ ├── short.sdf
@@ -29,7 +29,7 @@ This ROS2 package my_robot contains a complete robot model with integrated senso
   │ 	├── right_wheel.stl
   │ 	└── lidar.stl
   │ └── urdf
-  │		 └── my_bot.xacro
+  │		 └── my_bot.xacro              # robot xacro
 ```
 
 ---
