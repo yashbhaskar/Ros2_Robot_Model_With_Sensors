@@ -169,7 +169,7 @@ source install/setup.bash
 ros2 launch my_bot gazebo.launch.py
 ```
 
-### Launch Rviz If You Want To Visualize Your Xacro/Urdf File In Rviz2
+### Launch Rviz If You Want To Visualize Your Xacro/Urdf File In Rviz2 (Optional)
 ```bash
 ros2 launch my_bot rviz.launch.py
 ```
