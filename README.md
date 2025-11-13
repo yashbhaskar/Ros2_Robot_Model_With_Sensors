@@ -1,5 +1,6 @@
 # Ros2_Robot_Model_With_Sensors
 This ROS2 package my_robot contains a complete robot model with integrated sensors and plugins. It includes CAD .stl files, a detailed .xacro robot description with differential drive controller, odometry, IMU, joint state, and Gazebo sensor plugins for RGB-D camera, 2D/3D LiDAR, and IMU, plus friction coefficients for simulation realism.
+
 <img width="1291" height="745" alt="Screenshot from 2025-11-13 11-41-10" src="https://github.com/user-attachments/assets/5258858f-9dd4-4260-bc53-f6be22275658" />
 <img width="1291" height="745" alt="Screenshot from 2025-11-13 11-40-36" src="https://github.com/user-attachments/assets/016ca12d-c97f-4550-9b09-5d4de2448a02" />
 
