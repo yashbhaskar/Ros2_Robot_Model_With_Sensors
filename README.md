@@ -76,6 +76,7 @@ This robot integrates multiple sensors defined in the `.xacro` file, each simula
 - Parameters typically include wheel separation, wheel radius, and update frequency for motion accuracy.
 
 *Example Simulation:*  
+<img width="905" height="742" alt="odom" src="https://github.com/user-attachments/assets/3cc0fb82-d90b-46b1-94a7-1434501f35d2" />
 
 ---
 
@@ -89,6 +90,8 @@ This robot integrates multiple sensors defined in the `.xacro` file, each simula
 - Parameters include field of view (`1.047 rad`), resolution (`640x480`), and depth range (`0.05–3 m`).
 
 *Example Simulation:*  
+<img width="1289" height="742" alt="cam1" src="https://github.com/user-attachments/assets/51f81a73-c24f-48d5-a8bf-8e951475abfa" />
+<img width="1291" height="745" alt="cam2" src="https://github.com/user-attachments/assets/f4ecbbed-c640-400f-8c67-7bd5881b39bd" />
 
 ---
 
@@ -102,6 +105,9 @@ This robot integrates multiple sensors defined in the `.xacro` file, each simula
 - Configured for horizontal scanning with 360 samples.
 
 *Example Simulation:*  
+<img width="1289" height="742" alt="2dlidar1" src="https://github.com/user-attachments/assets/b36267d2-b859-4b05-ae38-12e74f2388b8" />
+<img width="905" height="742" alt="2dlidar2" src="https://github.com/user-attachments/assets/793e9e1a-67a1-4e9d-acea-7def69756244" />
+<img width="1289" height="742" alt="2dlidar3" src="https://github.com/user-attachments/assets/1396b07c-3f38-4a26-8d13-d14cfe00c5ec" />
 
 ---
 
@@ -115,6 +121,10 @@ This robot integrates multiple sensors defined in the `.xacro` file, each simula
 - Range: `0.2–30 m`, with 360° horizontal and ±15° vertical FOV.
 
 *Example Simulation:*  
+<img width="1289" height="742" alt="3dlidar1" src="https://github.com/user-attachments/assets/75714c4c-018b-4dcc-948e-650c6b5560fc" />
+<img width="905" height="742" alt="3dlidar2" src="https://github.com/user-attachments/assets/4bb92a26-6fab-4b65-8f6b-35b4c4b019dd" />
+<img width="1289" height="742" alt="3dlidar3" src="https://github.com/user-attachments/assets/15377b56-d404-4b7b-9a80-8f72bf53560e" />
+<img width="905" height="742" alt="3dlidar4" src="https://github.com/user-attachments/assets/93aaee71-5aea-4e3e-b3d4-49f71dd081cb" />
 
 ---
 
@@ -128,6 +138,7 @@ This robot integrates multiple sensors defined in the `.xacro` file, each simula
 - Update rate: **20 Hz** with visualization enabled.
 
 *Example Simulation:*  
+<img width="905" height="742" alt="imu" src="https://github.com/user-attachments/assets/befb462f-7bad-4d6b-95c6-639c7c215e52" />
 
 ---
 
